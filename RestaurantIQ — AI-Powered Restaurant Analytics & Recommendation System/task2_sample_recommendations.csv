@@ -1,0 +1,16 @@
+﻿Restaurant Name,City,Locality,Cuisines,Price range,Aggregate rating,Votes,Test_Case
+Tossin Pizza,New Delhi,Safdarjung,"Pizza, Italian",2,4.1,647,Case_1
+Crazy Kitchen Lounge & Terrace,New Delhi,Satyaniketan,"North Indian, Chinese, Italian",2,3.9,176,Case_1
+Big Yellow Door,New Delhi,Satyaniketan,"Cafe, Fast Food, Italian",2,4.2,3311,Case_1
+MOB Brewpub,New Delhi,Connaught Place,"Continental, Italian, Asian, Indian",3,4.7,52,Case_1
+Superstar Caf��,New Delhi,Satyaniketan,"Cafe, Continental, Italian",2,4.2,530,Case_1
+Happy Hakka,Gurgaon,DLF Phase 4,"Chinese, Asian, Thai",2,4.1,134,Case_2
+Drifters Cafe,Gurgaon,Sector 29,"Chinese, Thai, Asian",1,4.1,208,Case_2
+Cafe Gatherings,Gurgaon,DLF Phase 4,"Cafe, Continental",2,4.4,161,Case_2
+Caterspoint,Gurgaon,DLF Phase 3,"Mexican, American, Healthy Food",2,4.9,223,Case_2
+Kaiser,Gurgaon,DLF Phase 4,"North Indian, Mughlai",2,4.1,152,Case_2
+Prankster,Gurgaon,Sector 29,"Modern Indian, North Indian",3,4.8,1478,Case_3
+Dilli Treat,New Delhi,Rajinder Nagar,"North Indian, South Indian, Chinese",2,4.2,251,Case_3
+Kopper Kadai,New Delhi,Rajouri Garden,North Indian,3,4.8,83,Case_3
+Zabardast Indian Kitchen,New Delhi,Connaught Place,North Indian,3,4.7,242,Case_3
+Mirchi And Mime,Mumbai,Powai,"North Indian, South Indian, Mughlai",3,4.9,3244,Case_3
